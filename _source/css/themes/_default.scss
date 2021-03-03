@@ -1,0 +1,62 @@
+// Layout Colors
+// green
+$primaryLight: #27ab6e;
+$primary: #1E925C;
+$primaryDark: #187C4E;
+$primaryUtraDark: #26533F;
+
+// red
+$secondaryLight: #f55d49;
+$secondary: #E44A36;
+$secondaryDark: #bd301e;
+
+// extra layout colors
+$wine: #911E1F;
+$black: #000;
+$greenLight: #ECF0EE;
+
+// whites
+$white: #fff;
+$white2: #f8f8f8;
+$white3: #f4f4f4;
+
+// grays
+$mutedGray: #ededed;
+$lightGray: #e7e7e7;
+$mediumGray: #c5c5c5;
+$baseGray: #898989;
+$darkGray: #4c4c4c;
+
+// feedbacks
+$feedbackSuccess: #1ca33d;
+$feedbackLoad: #eee;
+$feedbackError: #f05555;
+
+// whastsapp
+$whatsappPrimary: #25d366;
+$whatsappSecondary: #1eb456;
+
+// Sizes
+$defaultRadius: 0;
+$containerPadding: 0 15px;
+$containerWidth: 1200px;
+$containerBigWidth: 1360px;
+$maxRowWidth: 2560px;
+
+// media folders
+$media_assets : "../../media/img/assets/";
+$media_icons : "../../media/img/icons/";
+$media_content : "../../media/img/content/";
+$media_boilerplate : "../../media/img/boilerplate/";
+
+// text
+$text: #747474;
+$placeholderText: lighten($text, 15%);
+$fontFamily__default: 'Raleway', 'Roboto', 'Calibri', sans-serif;
+$fwLight: 300;
+$fwRegular: 400;
+$fwMedium: 500;
+$fwSemi-bold: 600;
+$fwBold: 700;
+$fwExtraBold: 800;
+$fwBlack: 900;

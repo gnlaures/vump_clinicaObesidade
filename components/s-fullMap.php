@@ -1,0 +1,3 @@
+<section class="s-fullMap">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.676289593908!2d-38.276137284611295!3d-12.864172461147215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7163ef7c61afb59%3A0x69299b82b3dbf80a!2sClinica%20da%20Obesidade!5e0!3m2!1spt-BR!2sbr!4v1614368262332!5m2!1spt-BR!2sbr" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</section>
