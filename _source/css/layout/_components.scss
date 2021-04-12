@@ -1841,17 +1841,43 @@ $c_subMenuHover_defaultHeight: 100px;
     }
 }
 .c-linkFindSubject {
-    @include roundedAll(27px);
-    @include paragrafos($tc: $white, $mb: 0, $fs: 14px, $fw: $fwRegular);
-    @include transition();
-    padding: 0 30px;
+    //@include roundedAll(27px);
+    //@include paragrafos($tc: $white, $mb: 0, $fs: 14px, $fw: $fwRegular);
+    //@include transition();
+    //padding: 0 30px;
     display: block;
     width: 300px;
     max-width: 100%;
-    height: 54px;
-    line-height: 52px;
-    border: 1px solid rgba(255,255,255,0.5);
     position: relative;
+    input {
+        @include roundedAll(27px);
+        @include paragrafos($tc: $white, $mb: 0, $fs: 14px, $fw: $fwRegular);
+        @include transition();
+        display: block;
+        width: 100%;
+        padding: 0 30px;
+        height: 54px;
+        line-height: 52px;
+        border: 1px solid rgba(255,255,255,0.5);
+        background: transparent;
+        position: relative;
+        z-index: 3;
+        font-weight: $fwRegular;
+        font-size: 14px;
+        @include placeholder {
+            color: $white;
+            font-weight: $fwRegular;
+            font-size: 14px;
+        }
+        &:focus {
+            border: 1px solid rgba(255,255,255,1);
+            //background: $primary;
+        }
+    }
+    input[type="search"]::-webkit-search-cancel-button {
+        -webkit-appearance: none;
+        background: transparent;
+    }
     &:after {
         @include transition();
         content: '';
@@ -1861,16 +1887,12 @@ $c_subMenuHover_defaultHeight: 100px;
         position: absolute;
         top: 0;
         right: 20px;
+        z-index: 2;
         background-image: url(#{$media_assets}caret-right-white.svg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
-    }
-    &:hover {
-        border: 1px solid rgba(255,255,255,1);
-        &:after {
-            right: 15px;
-        }
+        color: $white;
     }
 }
 .c-video {

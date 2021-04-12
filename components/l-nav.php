@@ -31,13 +31,13 @@
 					<li><a href="contato">Contato</a></li>
 				</ul>
 				<div class="l-nav__findSubject">
-					<a href="#" class="c-linkFindSubject">Encontre um assunto</a>
+                    <form class="c-linkFindSubject"><input type="search" name="search" placeholder="Encontre um assunto"></form>
 					<a href="#m-agendar-avaliacao" class="c-btn --primary c-linkCTA js-openModal">Agende uma avaliação</a>
 				</div>
 			</div>
 			<div class="l-nav__showOnlyInResponsive">
 				<div class="l-nav__findSubject">
-					<a href="#" class="c-linkFindSubject">Encontre um assunto</a>
+                    <form class="c-linkFindSubject"><input type="search" name="search" placeholder="Encontre um assunto"></form>
 					<a href="#m-agendar-avaliacao" class="c-btn --primary c-linkCTA js-openModal">Agende uma avaliação</a>
 				</div>
 			</div>
