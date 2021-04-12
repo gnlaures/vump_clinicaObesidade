@@ -1936,6 +1936,9 @@ $c_subMenuHover_defaultHeight: 100px;
     }
     &__results {
         margin-top: 40px;
+        h3 {
+            font-weight: $fwBold !important;
+        }
     }
     .c-responsiveGrid {
         @include calcWidthForPositionNegative(-8px);
@@ -1953,6 +1956,14 @@ $c_subMenuHover_defaultHeight: 100px;
                     line-height: 52px;
                     padding-top: 0;
                     padding-bottom: 0;
+                    font-size: 16px;
+                    font-weight: $fwBold;
+                }
+                input {
+                    @include placeholder {
+                        font-size: 16px;
+                        font-weight: $fwBold;
+                    }
                 }
             }
         }
@@ -1988,6 +1999,7 @@ $c_subMenuHover_defaultHeight: 100px;
     }
     h4 {
         @include defaultTitle($fs: 16px);
+        font-weight: $fwBold !important;
         text-transform: uppercase;
         margin-bottom: 4px;
     }
@@ -2013,6 +2025,7 @@ $c_subMenuHover_defaultHeight: 100px;
     }
     h3 {
         @include defaultTitle($fs: 14px);
+        font-weight: $fwBold;
         text-align: center;
         text-transform: uppercase;
         margin: 25px 0 20px 0;
@@ -2230,6 +2243,8 @@ $c_subMenuHover_defaultHeight: 100px;
     }
     h4 {
         @include defaultTitle($fs: 18px);
+        font-weight: $fwBold;
+        color: $text;
         line-height: 1.1;
     }
     p {

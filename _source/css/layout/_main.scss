@@ -1243,13 +1243,18 @@
 	}
 	&__call {
 		@include flexWidth(350px);
+		h3, h2 {
+			font-weight: $fwBold !important;
+		}
 	}
 	&__form {
 		padding-left: 30px;
 		max-width: 520px;
 	}
 	address {
+		font-style: normal;
 		p {
+			font-style: normal;
 			margin-bottom: 5px;
 			line-height: 1.8;
 		}

@@ -4,9 +4,9 @@
     </header>
 	<section class="s-medicStaff s-default">
 		<div class="u-container">
-			<h1>Equipe Médica</h1>
-			<p>A equipe é formada por profissionais da área de saúde altamente capacitados e especializados, focados no cuidado da saúde física e psicológico do paciente, possibilitando uma interação que envolve confiança e responsabilidade.</p>
-			<p>Aqui, você encontrará um corpo médico composto por:</p>
+			<h1><span class="u-color-textDefault">Equipe</span> Médica</h1>
+			<p>A equipe é formada por <strong class="u-color-primary">profissionais da área de saúde</strong> altamente capacitados e especializados, focados no cuidado da saúde física e psicológico do paciente, possibilitando uma interação que envolve confiança e responsabilidade.</p>
+            <p>Aqui, você encontrará um <strong class="u-color-primary">corpo médico</strong> composto por:</p>
 			<div class="c-searchListMedic">
 				<div class="c-searchListMedic__form">
 					<form action="#" class="c-form" id="formBuscaMedicos">

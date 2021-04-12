@@ -7,7 +7,7 @@
 			</a>
 		</div>
 		<div class="s-history__movies">
-			<h2>Conheça a história real de pacientes que passaram pela clínica:</h2>
+			<h2>Conheça a história <span class="u-color-textDefault ">real de pacientes que passaram pela clínica:</span></h2>
 			<ul>
 				<li>
 					<div class="c-cardQuote">

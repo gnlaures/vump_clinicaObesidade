@@ -30,7 +30,7 @@
 				</div>
 			</div>
 			<div class="s-callStructure__call">
-				<h1>Venha conhecer nossa estrutura</h1>
+				<h1>Venha conhecer <span class="u-color-textDefault">nossa estrutura</span></h1>
 				<p>Estamos preparados para mudar sua vida para sempre</p>
 				<span class="css-titleDetail"></span>
 				<a href="#" class="c-btn --primary">Agende uma avaliação</a>
@@ -40,7 +40,7 @@
 	<?php include('components/s-specialists.php');?>
 	<section class="s-treatments s-default" data-aos="fade-up">
 		<div class="u-container">
-			<h2 class="u-ta-center">O que tratamos para sua saúde</h2>
+			<h2 class="u-ta-center">O que tratamos <span class="u-color-textDefault">para sua saúde</span></h2>
 			<p class="u-ta-center">A Clínica da Obesidade é uma clínica médica voltada exclusivamente para o tratamento multidisciplinar da obesidade e doenças associadas. Atuamos,com excelência, no tratamento da obesidade de maneira saudável e sem cirurgia bariátrica,há mais de 10 anos. Ao longo desse tempo, tratamos a obesidade e resgatamos a autoestima e a saúde de mais de xx pacientes.
 			</p>
 			<ul class="gridTreatments">
@@ -120,7 +120,7 @@
 	</section>
 	<section class="s-knowUs s-default" data-aos="fade-up">
 		<div class="u-container">
-			<h2 class="u-ta-center">Conheça a estrutura da Clínica da Obesidade</h2>
+			<h2 class="u-ta-center">Conheça a estrutura <span class="u-color-textDefault">da Clínica da Obesidade</span></h2>
 			<p class="u-ta-center">A Clínica da Obesidade ocupa uma área de 15o mil m² e conta com uma equipe transdisciplinar composta por: médicos, nutricionistas, psicólogos, fisioterapeutas, terapeutas ocupacionais, equipe de enfermagem, educadores físicos e professores de autoconhecimento.</p>
 		</div>
 	</section>
@@ -144,7 +144,7 @@
 				<div class="swiper-button-next"></div>
 			</div>
 			<div class="s-installations__description">
-				<h2>Nossas Instalações</h2>
+				<h2>Nossas <span class="u-color-textDefault">Instalações</span></h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda earum, eligendi. Aperiam aut corporis dicta ex explicabo facere hic ipsam ipsum libero odit provident qui, reiciendis saepe. Aperiam consequatur excepturi maiores veritatis voluptate? Accusamus hic qui reprehenderit.</p>
 				<a href="#" class="c-btn --primary">Agende uma avaliação</a>
 			</div>
@@ -156,7 +156,7 @@
 	?>
 	<section class="s-benefits s-default" data-aos="fade-up">
 		<div class="u-container">
-			<h2 class="u-ta-center">O que oferecemos para sua estadia</h2>
+			<h2 class="u-ta-center">O que oferecemos <span class="u-color-textDefault">para sua estada </span></h2>
 			<p class="u-ta-center">Oferecemos um acompanhamento completo aos nossos pacientes, orientado por uma equipe transdisciplinar composta por: médicos de diversas especialidades, nutricionistas, psicólogos, fisioterapeutas, terapeutas ocupacionais, equipe de enfermagem, educadores físicos e professores de autoconhecimento. Nosso tratamento é fundamentado em conformidade com as Diretrizes Brasileiras para o Tratamento da Obesidade concebidas pela Abeso – Associação Brasileira do Estudo da Obesidade – compondo-se por:
 			</p>
 			<div class="s-benefits__swiper">
@@ -347,7 +347,7 @@
 	<?php include('components/s-history.php');?>
 	<section class="s-extraInfos s-default" data-aos="fade-up">
 		<div class="u-container">
-			<h2 class="u-ta-center">Informações que você precisa saber</h2>
+			<h2 class="u-ta-center">Informações <span class="u-color-textDefault">que você precisa saber</span></h2>
 			<div class="s-extraInfos__swiper">
 				<div class="swiper-container">
 					<div class="swiper-wrapper">
@@ -413,7 +413,7 @@
 	</section>
 	<section class="s-blog s-default" data-aos="fade-up">
 		<div class="u-container">
-			<h2 class="u-ta-center">Tem mais no nosso BLOG</h2>
+			<h2 class="u-ta-center">Tem mais <span class="u-color-textDefault">no nosso BLOG</span></h2>
 			<ul class="c-responsiveGrid" data-maxw-breaks="960, 420" data-maxw-cols="2, 1" data-cols-init="4">
 				<li>
 					<a href="#" class="c-cardBlog">

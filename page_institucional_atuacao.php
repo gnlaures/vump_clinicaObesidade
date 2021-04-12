@@ -4,7 +4,7 @@
     </header>
 	<section class="s-action s-default">
 		<div class="u-container">
-			<h1>Área de atuação</h1>
+			<h1><span class="u-color-textDefault">Área de </span>atuação</h1>
 			<ul class="c-responsiveGrid" data-maxw-breaks="860" data-maxw-cols="1" data-cols-init="2">
 				<li>
 					<div class="c-itemList">

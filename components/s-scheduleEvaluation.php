@@ -1,7 +1,7 @@
 <section class="s-scheduleEvaluation s-default">
 	<div class="u-container u-dflex u-aic u-jcsb">
 		<div class="s-scheduleEvaluation__call">
-			<h1>Agende sua Avaliação</h1>
+			<h1><span class="u-color-textDefault ">Agende sua</span> Avaliação</h1>
 			<p>Se você precisa perder muito peso não consegue, venha fazer uma avaliação presencial ou online com nossa equipe médica especializada em emagrecimento saudável. Preencha seus dados e aguarde o nosso contato.</p>
 		</div>
 		<div class="s-scheduleEvaluation__form">

@@ -5,7 +5,7 @@
 	<section class="s-contact s-default">
 		<div class="u-container u-dflex u-aic u-jcsb">
 			<div class="s-contact__call">
-				<h1>Fale com a gente</h1>
+				<h1><span class="u-color-textDefault">Fale com a </span>gente</h1>
 				<h2>Preencha os campos ao lado para enviar sua mensagem.</h2>
 				<h3>Nosso contato</h3>
 				<address>

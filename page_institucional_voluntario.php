@@ -6,8 +6,8 @@
 		<div class="u-container">
 			<h1>Seja Voluntário</h1>
 			<p>Você também pode praticar o bem e contribuir para salvar muitas vidas. Seja voluntário!</p>
-			<p>A Clínica da Obesidade realiza todo seu trabalho social em conjunto com a ASSOCIAÇÃO BENEFICENTE DA UNIVERSIDADE TEODINÂMICA.</p>
-			<p>Em comunhão com os princípios que regem esta instituição beneficente, seremos, também, um ponto neutro, sem barreiras filosóficas, religiosas ou de qualquer outra natureza, que tem por objetivo primordial estudos e atividades relacionadas à EDUCAÇÃO, SAÚDE, ECOLOGIA, PAZ MUNDIAL e ao DESENVOLVIMENTO da CONSCIÊNCIA HUMANA.</p>
+			<p>A Clínica da Obesidade realiza todo seu trabalho social em conjunto com a <strong class="u-color-primary">ASSOCIAÇÃO BENEFICENTE DA UNIVERSIDADE TEODINÂMICA</strong>.</p>
+			<p>Em comunhão com os princípios que regem esta instituição beneficente, seremos, também, um ponto neutro, sem barreiras filosóficas, religiosas ou de qualquer outra natureza,  que tem por objetivo primordial estudos e atividades relacionadas à <strong class="u-color-primary">EDUCAÇÃO, SAÚDE, ECOLOGIA, PAZ MUNDIAL</strong> e ao <strong class="u-color-primary">DESENVOLVIMENTO da CONSCIÊNCIA HUMANA</strong>.</p>
 
 			<div class="s-beVoluntary__swiper">
 				<div class="swiper-container swiper__big">

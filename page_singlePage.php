@@ -2,7 +2,7 @@
 	<section class="s-singlePage">
 		<div class="s-singlePage__title">
 			<div class="u-container">
-				<h1>O que é<br>Esteatose Hepática?</h1>
+				<h1><span class="u-color-textDefault">O que é </span><br>Esteatose Hepática?</h1>
 			</div>
 		</div>
 		<div class="s-singlePage__content">
@@ -15,7 +15,7 @@
 				</div>
 			</div>
 			<div class="u-container u-dflex">
-				<h2 class="u-fw100">Quais são os sintomas de Esteatose Hepática</h2>
+				<h2 class="u-fw100"><span class="u-color-textDefault">Quais são os sintomas de  </span>Esteatose Hepática</h2>
 			</div>
 			<div class="u-container u-dflex u-aic">
 				<div class="col u-fw45">
@@ -65,7 +65,7 @@
 	</section>
 	<section class="s-naturalTreatment s-default">
 		<div class="u-container">
-			<h2>Tratamento natural resulta em perda de peso rápida e combate a esteatose hepática</h2>
+			<h2><span class="u-color-textDefault">Tratamento natural resulta em perda de peso rápida e combate a </span>esteatose hepática</h2>
 			<p>Oferecemos um acompanhamento completo aos nossos pacientes, orientado por uma equipe transdisciplinar composta por: médicos de diversas especialidades, nutricionistas, psicólogos, fisioterapeutas, terapeutas ocupacionais, equipe de enfermagem, educadores físicos e professores de autoconhecimento. Nosso tratamento é fundamentado em conformidade com as Diretrizes Brasileiras para o Tratamento da Obesidade concebidas pela Abeso – Associação Brasileira do Estudo da Obesidade – compondo-se por:
 			</p>
 			<a href="#" class="c-btn --primary">Agende uma avaliação</a>
