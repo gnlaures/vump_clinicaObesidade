@@ -2,7 +2,7 @@
 	<div class="u-container u-dflex u-aic">
 		<div class="l-footer__brand">
 			<a href="#">
-				<img src="media/img/assets/brand.png" alt="Clínica da Obesidade">
+				<img src="media/img/assets/brand_green.png" alt="Clínica da Obesidade">
 			</a>
 		</div>
 		<div class="l-footer__menus">
