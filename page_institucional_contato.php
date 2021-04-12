@@ -1,4 +1,7 @@
 <main class="l-innerPage">
+    <header class="l-headerInner">
+        <img src="media/img/content/headerInner_contato.jpg" alt="Fale com a gente">
+    </header>
 	<section class="s-contact s-default">
 		<div class="u-container u-dflex u-aic u-jcsb">
 			<div class="s-contact__call">

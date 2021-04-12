@@ -1,4 +1,7 @@
 <main class="l-innerPage">
+    <header class="l-headerInner">
+        <img src="media/img/content/headerInner_equipe.jpg" alt="Equipe Médica">
+    </header>
 	<section class="s-medicStaff s-default">
 		<div class="u-container">
 			<h1>Equipe Médica</h1>

@@ -303,6 +303,18 @@
 	background-size: cover !important;
 	background-attachment: fixed !important;
 }
+.l-headerInner {
+	display: block;
+	width: 100%;
+	img {
+		display: block;
+		width: 100%;
+		min-height: 240px;
+		max-height: 420px;
+		object-fit: cover;
+		object-position: center;
+	}
+}
 .l-nav {
 	@include transition();
 	display: block;

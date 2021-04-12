@@ -1,4 +1,7 @@
 <main class="l-innerPage">
+    <header class="l-headerInner">
+        <img src="media/img/content/headerInner_areas.jpg" alt="Área de atuação">
+    </header>
 	<section class="s-action s-default">
 		<div class="u-container">
 			<h1>Área de atuação</h1>

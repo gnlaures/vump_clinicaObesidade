@@ -1,4 +1,7 @@
 <main class="l-innerPage">
+    <header class="l-headerInner">
+        <img src="media/img/content/headerInner_voluntario.jpg" alt="Seja um voluntário">
+    </header>
 	<section class="s-beVoluntary s-default">
 		<div class="u-container">
 			<h1>Seja Voluntário</h1>

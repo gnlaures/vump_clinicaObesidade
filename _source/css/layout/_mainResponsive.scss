@@ -1,3 +1,10 @@
+// body padding
+@media screen and (max-width: 1140px) {
+    body.p-inner {
+        padding-top: 115px;
+    }
+}
+
 // l-nav / l-navHidden
 @media screen and (max-width: 1440px) {
     .l-nav__global {
