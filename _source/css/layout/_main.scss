@@ -221,9 +221,11 @@
 .l-innerPage {
 	.s-default {
 		padding: 100px 0;
-		h1 {
-			@include defaultTitle($fs: 76px);
-			margin-bottom: 45px;
+		&:not(.s-specialists) {
+			h1 {
+				@include defaultTitle($fs: 76px);
+				margin-bottom: 45px;
+			}
 		}
 		h2 {
 			@include defaultTitle($fs: 18px);
